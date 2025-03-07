@@ -1,0 +1,24 @@
+# PlatformIO build output
+.pio/
+build/
+
+# IDE files
+.vscode/
+
+# Other temporary files
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.a
+*.lss
+*.sym
+*.dump
+*.gcda
+*.gcno
+*.dSYM
+
+# Operating system files
+Thumbs.db
+.DS_Store
