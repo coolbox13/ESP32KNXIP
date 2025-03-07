@@ -4,8 +4,8 @@
 #include <WiFi.h>
 #include "knx_ip_module.h"
 
-const char* ssid = "coolbox_down";
-const char* password = "1313131313131";
+const char* ssid = "ssidn";
+const char* password = "password";
 IPAddress knxGateway(192, 168, 178, 2); // Replace with your KNX gateway IP
 
 KNXIPModule knxModule;
